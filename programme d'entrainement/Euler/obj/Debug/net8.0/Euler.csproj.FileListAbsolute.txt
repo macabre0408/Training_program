@@ -1,0 +1,14 @@
+C:\programme d'entrainement\Euler\bin\Debug\net8.0\Euler.exe
+C:\programme d'entrainement\Euler\bin\Debug\net8.0\Euler.deps.json
+C:\programme d'entrainement\Euler\bin\Debug\net8.0\Euler.runtimeconfig.json
+C:\programme d'entrainement\Euler\bin\Debug\net8.0\Euler.dll
+C:\programme d'entrainement\Euler\bin\Debug\net8.0\Euler.pdb
+C:\programme d'entrainement\Euler\obj\Debug\net8.0\Euler.GeneratedMSBuildEditorConfig.editorconfig
+C:\programme d'entrainement\Euler\obj\Debug\net8.0\Euler.AssemblyInfoInputs.cache
+C:\programme d'entrainement\Euler\obj\Debug\net8.0\Euler.AssemblyInfo.cs
+C:\programme d'entrainement\Euler\obj\Debug\net8.0\Euler.csproj.CoreCompileInputs.cache
+C:\programme d'entrainement\Euler\obj\Debug\net8.0\Euler.dll
+C:\programme d'entrainement\Euler\obj\Debug\net8.0\refint\Euler.dll
+C:\programme d'entrainement\Euler\obj\Debug\net8.0\Euler.pdb
+C:\programme d'entrainement\Euler\obj\Debug\net8.0\Euler.genruntimeconfig.cache
+C:\programme d'entrainement\Euler\obj\Debug\net8.0\ref\Euler.dll

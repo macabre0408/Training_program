@@ -1,0 +1,14 @@
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\programme d'entrainement\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
